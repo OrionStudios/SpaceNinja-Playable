@@ -1,6 +1,6 @@
 # SpaceNinja-Playable
 
-#### Windows users can download this .zip file and run the SpaceNinja.exe to play!
+#### Windows users can download a .zip file of this repo and run the **SpaceNinja.exe** to play!
 See our README.txt for instructions, cheat codes, and more. 
 
 #### Want to see a demo? 
